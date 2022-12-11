@@ -7,7 +7,7 @@ import { ShoutInput } from "./components/ShoutInput";
 
 function App() {
   const [shout, setShout] = useState("");
-  const [word, setWord] = useState("MAKERS");
+  const [word, setWord] = useState("");
 
   return (
     <div className="App">
